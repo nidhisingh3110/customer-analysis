@@ -1,3 +1,4 @@
+
 # 📊 Customer Analysis Dashboard – Power BI Project
 
 ## 🧩 Overview
@@ -94,3 +95,6 @@ Made with ❤️ by Nidhi Singh
 https://www.linkedin.com/in/nidhi-singh-1bba89155/
 
 ----------
+# customer-analysis
+Power BI report analysing Customer
+>>>>>>> 28a4c5125c6c8a41d602b40ea6f6babbd8accc7d
